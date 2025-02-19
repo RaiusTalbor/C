@@ -1,0 +1,9 @@
+Kurt,Kanns;555678;DE
+Adriano;Celentano;1234_IT
+Rouven,Lacour;551235678;FR
+Richard;Mueller;1234-AT
+Monica,Belucci;12555678;IT
+Jean_Paul;Bellmondo;1234_IT
+Brad,Pitt;551235678;US
+Benedicte;Camberbutch;1234-UK
+Elon,Musk;1234.US

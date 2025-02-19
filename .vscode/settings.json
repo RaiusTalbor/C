@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "type_traits": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "C_Cpp.default.compilerArgs": [
+        "-cStandard=c89",
+        "-Wall",
+        "-Wextra",
+        "-pedantic"
+    ]
+}

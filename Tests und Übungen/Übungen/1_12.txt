@@ -1,0 +1,14 @@
+1_12
+
+N*N = N^2 = 15 * 15 = 225 in s
+--> 40 --> 40 * 40 = 1600 in s
+
+Wenn die Komplexität nicht linear, sondern logarithmisch ansteigt
+Das bedeutet, dass mit dem Berechnungsumfang die Zeit nicht gleichmäßig zu nimmt, sondern deutlich weniger.
+
+Um die Komplexität eines Problems zu minimieren, versucht man, den Code so effektiv wie möglich zu gestalten,
+heißt wenig Zeilen und wenig Variablen, die Speicher benötigen. Man versucht, Annäherungsverfahren zu implementieren,
+um komplizierte Berechnungen zu vermeiden, dessen Genauigkeit man nicht benötigt. Außerdem vermeidet man Rekursionen,
+die durch den Wiederaufruf nicht nur komplex werden, sondern auch Zeit und Speicher in Anspruch werden. Wichtig ist auch,
+die Anzahl der Schleifen zu kontrollieren, um unnötige Durchläufe zu verhindern. Nicht zuletzt die Wahl des Datentyps
+einer Variable hat Einfluss auf die Geschwindigkeit des Programms.
