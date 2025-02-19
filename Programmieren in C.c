@@ -97,6 +97,7 @@ s...	Zeichenfolge
 6...	Cyan
 7...	weiß*/
 
+--> en.wikipedia.org/org/ANSI_escape_code
 /*OPERATOREN -------------------------------------------------------------------------*/
 +, -, *, /, %; 
 nur mit math: pow(basis, potenz); sin(rad); cos(); tan();
